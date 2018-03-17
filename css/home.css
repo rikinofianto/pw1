@@ -8,25 +8,25 @@ body {
 hr {
 	max-width:50px;
 	border-width:3px;
-	border-color:#612a5a
+	border-color:#196311
 }
 hr.light {
 	border-color:#fff
 }
 a {
-	color:#612a5a;
+	color:#196311;
 	-webkit-transition:all .2s;
 	-moz-transition:all .2s;
 	transition:all .2s
 }
 a:hover {
-	color:#612a5a
+	color:#196311
 }
 h1,h2,h3,h4,h5,h6 {
 	font-family:'Open Sans','Helvetica Neue',Arial,sans-serif
 }
 .bg-primary {
-	background-color:#612a5a!important
+	background-color:#196311!important
 }
 .bg-dark {
 	background-color:#212529!important
@@ -64,7 +64,7 @@ header.masthead {
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	padding-bottom:calc(10rem - 56px);
-	background-image:url(../images/up.jpg);
+	background-image:url(../images/bg.jpeg);
 	background-position:center center;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -103,7 +103,7 @@ header.masthead p {
 	}
 }
 .text-primary {
-	color:#612a5a!important
+	color:#196311!important
 }
 .btn {
 	font-weight:700;
@@ -116,8 +116,8 @@ header.masthead p {
 	padding:1rem 2rem
 }
 .btn-primary {
-	background-color:#612a5a;
-	border-color:#612a5a
+	background-color:#196311;
+	border-color:#196311
 }
 .btn-primary:active,.btn-primary:focus,.btn-primary:hover {
 	color:#fff;
